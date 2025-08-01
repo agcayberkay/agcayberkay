@@ -103,11 +103,6 @@ Amacım hem kendim için dokümantasyon oluşturmak hem de başkalarına yardım
 
 ---
 
-### 📝 Son Blog Yazılarım
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
----
-
 ## 📫 Bana Ulaşın
 
 - 📧 E-posta: berkay_agcay@hotmail.com
