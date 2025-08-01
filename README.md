@@ -95,10 +95,17 @@ Amacım hem kendim için dokümantasyon oluşturmak hem de başkalarına yardım
 </p>
 </p>
 
+---
+
 ### 🏆 GitHub Başarı Rozetlerim
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=agcayberkay&theme=tokyonight&row=1&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
+---
+
+### 📝 Son Blog Yazılarım
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 ---
 
 ## 📫 Bana Ulaşın
