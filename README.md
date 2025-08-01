@@ -87,11 +87,11 @@ Amacım hem kendim için dokümantasyon oluşturmak hem de başkalarına yardım
 
 ## 📈 GitHub İstatistiklerim
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=agcayberkay&show_icons=true&theme=tokyonight" alt="Berkay GitHub Stats" />
-  <img src="https://readme-streak-stats.demolab.com?user=agcayberkay&theme=tokyonight" alt="Berkay GitHub Streak" />
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AGCAYBERKAY&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=AGCAYBERKAY&theme=tokyonight" />
 </p>
+
 
 ---
 
