@@ -89,7 +89,8 @@ Amacım hem kendim için dokümantasyon oluşturmak hem de başkalarına yardım
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=agcayberkay&show_icons=true&theme=tokyonight" alt="Berkay GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agcayberkay&theme=tokyonight" alt="Berkay GitHub Streak" />
+  <img src="https://readme-streak-stats.demolab.com?user=agcayberkay&theme=tokyonight" alt="Berkay GitHub Streak" />
+
 </p>
 
 ---
