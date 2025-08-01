@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Merhaba 👋, Ben Berkay</h1>
+<h3 align="center">.NET Backend Developer | Yazılım Geliştirici</h3>
 
-<!--
-**agcayberkay/agcayberkay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🚀 Şu anda üzerinde çalışıyorum: **Araç Kiralama Web Sitesi**
+- 💡 İlgi alanlarım: CQRS, Clean Architecture, MediatR, Entity Framework Core, .NET Core , Back-End
+- 📚 Öğrenmeye devam ediyorum: **Blazor, SignalR, Microservices,CQRS vb.**
+- 📝 Blog yazılarım: [Medium]([https://medium.com/@kullaniciadiniz](https://medium.com/@berkay_agcay))
+- 📫 Bana ulaşın: berkay_agcay@hotmail.com
+- ⚡ Fun fact: Hayatını düzene sokmaya çalışan bir yazılımcıyım 😄
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub İstatistiklerim
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=agcayberkay&show_icons=true&theme=tokyonight" alt="Berkay's GitHub stats"/>
+</p>
