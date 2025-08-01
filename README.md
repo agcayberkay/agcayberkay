@@ -92,6 +92,8 @@ Amacım hem kendim için dokümantasyon oluşturmak hem de başkalarına yardım
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=AGCAYBERKAY&theme=tokyonight" />
   <p align="left">
   <img src="https://komarev.com/ghpvc/?username=AGCAYBERKAY&label=Ziyaretçi+Sayısı&color=blue&style=flat" alt="Profil Ziyaretçi Sayacı" />
+    [![trophy](https://github-profile-trophy.vercel.app/?username=AGCAYBERKAY&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
 </p>
 
 </p>
