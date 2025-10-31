@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, ben Berkay</h1>
-<h3 align="center">Back-End Geliştirici | .NET Geliştirici|</h3>
+<h3 align="center">Full-Stack Geliştirici | .NET Geliştirici|</h3>
 
 ---
 
