@@ -1,120 +1,316 @@
-<h1 align="center">Merhaba 👋, ben Berkay</h1>
-<h3 align="center">Full-Stack Geliştirici | .NET Geliştirici|</h3>
+```md
+<h1 align="center">Merhaba 👋, ben Berkay Ağçay</h1>
+<h3 align="center">Full-Stack .NET Developer | ASP.NET Core • React • MVC • Blazor • MAUI</h3>
 
 ---
 
-🧑‍💻 Yazılım dünyasına duyduğum ilgiyle başladığım bu yolculukta, özellikle **.NET Core, Web API, C#, Entity Framework Core** gibi teknolojiler üzerinde çalışarak back-end geliştirme alanında uzmanlaşmaya odaklanıyorum.
+## 👨‍💻 Hakkımda
 
-🎯 Amacım sadece çalışan kod değil; sürdürülebilir, test edilebilir ve ölçeklenebilir yazılım mimarileri kurmak. Geliştirdiğim sistemler çoğunlukla gerçek iş süreçlerine doğrudan dokunan, **kurumsal ihtiyaçlara çözüm üreten** yapılardır.
+Yazılım geliştirmeye olan tutkum sayesinde **Full-Stack .NET Developer** olarak hem backend hem de frontend tarafında modern uygulamalar geliştiriyorum.
 
-🧠 Projelerimde sıklıkla **Clean Architecture, CQRS, MediatR, AutoMapper, Dependency Injection, JWT Authentication, SignalR** gibi yapıları kullanıyorum.
+Yaklaşık **3 yıllık profesyonel yazılım geliştirme deneyimim** boyunca kurumsal projelerde görev aldım ve özellikle iş süreçlerini dijitalleştiren, ölçeklenebilir ve sürdürülebilir sistemler geliştirmeye odaklandım.
 
----
+Backend tarafında **ASP.NET Core, Web API, Clean Architecture, CQRS, Entity Framework Core** gibi modern yaklaşımları kullanırken; frontend tarafında **React, ASP.NET MVC, Blazor ve .NET MAUI** ile kullanıcı deneyimi yüksek uygulamalar geliştiriyorum.
 
-## 🚀 Şu anda üzerinde çalıştığım projeler
-
-### 👨‍💼 Personel Görev & Performans Takip Sistemi
-> Çalışanlara görev atanmasını, bu görevlerin tamamlanma süreçlerini ve performans analizlerini kapsayan sistem.  
-> Kullanıcı dostu panel ve performans puanlama algoritmalarıyla destekleniyor.
-
-- Clean Architecture + MediatR
-- SignalR ile gerçek zamanlı bildirimler
-- Görev durumu & ilerleme takibi
-- Admin & Personel panel ayrımı
+Kod yazarken önceliğim yalnızca çalışan uygulamalar geliştirmek değil, aynı zamanda okunabilir, test edilebilir, sürdürülebilir ve kurumsal standartlara uygun yazılımlar üretmek.
 
 ---
 
-### 🚗 Araç Kiralama Web Sitesi (Galeri Panelli, MVC)
-> Müşterilerin araçları listeleyip kiralayabildiği, galerilerin ise kendi araçlarını yükleyip yönetebildiği dinamik bir MVC projesi.
+# 🚀 Uzmanlık Alanlarım
 
-- ASP.NET MVC + Katmanlı Mimari
-- Admin Panel + Galeri Panel
-- SQL Server + Entity Framework
-- Fotoğraf yönetimi, yorum sistemi ve kiralama takvimi
-- Dinamik içerik yönetimi (bloglar, duyurular, hizmetler)
-
----
-
-### 🛠️ Code Generator Tool
-> Verilen bir entity adına göre otomatik olarak katmanlar, CQRS sınıfları ve API endpoint'leri oluşturan bir kod üretici araç.
-
-- Console tabanlı mini araç
-- Service, DTO, Command-Query, Controller otomasyonu
-- .NET 8 uyumlu yapı
-
----
-
-## 🧰 Kullandığım & Sevdiğim Teknolojiler
-
-### Backend
-- 🟪 .NET 6 / .NET 8 / .NET 9
+- ⚡ ASP.NET Core Web API
+- 🏗️ Clean Architecture
+- 🧩 CQRS & MediatR
 - 💾 Entity Framework Core
-- 🧩 MediatR + CQRS + AutoMapper
 - 🔐 JWT Authentication & Authorization
-- 🔍 FluentValidation / Serilog / Swagger
-- 🔔 **SignalR** ile gerçek zamanlı iletişim
-
-### Veritabanı
-- 🗄️ Microsoft SQL Server
-- 🔍 LINQ, View, Stored Procedure
-
-### Frontend
-- 🖥️ Blazor (Yeni öğreniyorum)
-- 🧱 React (Temel düzeyde)
-
-### DevOps / Diğer
-- ☁️ Git / GitHub
-- 🧪 Postman
-- 📦 Docker (başlangıç düzeyi)
+- 📡 SignalR
+- 🖥️ React
+- 🎨 ASP.NET MVC
+- ⚙️ Blazor
+- 📱 .NET MAUI
+- ☁️ Docker
+- 🗄️ SQL Server
 
 ---
 
-## 📚 Öğrenmeye Devam Ettiklerim
-- Blazor WebAssembly ile modern UI geliştirme
-- SignalR ile daha kapsamlı canlı sistemler
-- Projelerde Unit Test / Integration Test stratejileri
+# 🚀 Son Dönemde Geliştirdiğim Projeler
+
+## 💊 Tria Eczane Raporlama Sistemleri
+
+Kurumsal eczane yönetim sistemleri için geliştirdiğim raporlama altyapıları.
+
+### Geliştirilen Modüller
+
+- Dinamik Dashboard Sistemi
+- Satıcı Performans Analizleri
+- Ürün Fiyat Takip Sistemi
+- Rapor Yönetim Modülü
+- Dashboard SQL Yönetimi
+- Dinamik Menü Sistemi
+- XML veri işleme servisleri
+- Background Service yapıları
+- Büyük veri senkronizasyon servisleri
+- MSSQL optimizasyonları
+
+**Kullanılan Teknolojiler**
+
+- ASP.NET Core
+- Clean Architecture
+- Entity Framework Core
+- SQL Server
+- Background Services
+- REST API
+- Swagger
 
 ---
 
-## 📝 Blog & İçerikler
+## 🤖 PharmaTeam AI
 
-🎤 Geliştirdiğim sistemlerin mimari yapıları, yaşadığım problemler ve çözümleri ile ilgili içerikler üretmeye başladım.  
-Amacım hem kendim için dokümantasyon oluşturmak hem de başkalarına yardımcı olmak.
+Eczacılar için geliştirilen yapay zeka destekli karar destek sistemi.
 
-📎 Medium: https://medium.com/@berkay_agcay
+### Özellikler
+
+- AI destekli öneri sistemi
+- Ürün analizleri
+- Dinamik rapor ekranları
+- Modern yönetim paneli
+- API tabanlı mimari
+- Modüler yapı
 
 ---
 
-## 📈 GitHub İstatistiklerim
+## ☪️ e-Mümin
+
+İslami içerikler sunan yapay zeka destekli mobil uygulama.
+
+### Özellikler
+
+- Yapay zeka sohbet sistemi
+- Kur'an-ı Kerim içerikleri
+- Dini bilgi asistanı
+- Namaz vakitleri entegrasyonu
+- Modern mobil arayüz
+- REST API tabanlı altyapı
+
+---
+
+## 🛒 XML E-Ticaret Altyapısı
+
+XML üzerinden ürün alan ve farklı pazaryerlerine uygun şekilde çalışan Full Stack e-ticaret sistemi.
+
+### Özellikler
+
+- XML Import
+- Otomatik ürün senkronizasyonu
+- Ürün yönetim paneli
+- Kategori yönetimi
+- React Admin Panel
+- Public ürün sitesi
+- Çoklu XML desteği
+
+---
+
+## 🚗 CarBook
+
+Modern araç kiralama sistemi.
+
+### Özellikler
+
+- ASP.NET MVC
+- CQRS + MediatR
+- Admin Panel
+- Blog Yönetimi
+- Dinamik içerik yönetimi
+- Araç yönetimi
+- Rezervasyon altyapısı
+- Entity Framework Core
+
+---
+
+## ☕ BaristaCafe
+
+Cafe tanıtım ve yönetim platformu.
+
+### Özellikler
+
+- ASP.NET MVC
+- Yönetim Paneli
+- Dinamik Menü Yönetimi
+- Blog Sistemi
+- Sosyal Medya Yönetimi
+- Hakkımızda Yönetimi
+- Responsive Tasarım
+
+---
+
+## 📊 Developer Daily Report System (DDRS)
+
+Yazılım ekiplerinin günlük raporlarını ve görevlerini yönetebildiği sistem.
+
+### Özellikler
+
+- Günlük rapor yönetimi
+- Görev yönetimi
+- Rol bazlı yetkilendirme
+- Yönetici Paneli
+- React + .NET mimarisi
+
+---
+
+## 🧰 Code Generator Tool
+
+Tek komutla;
+
+- Entity
+- CQRS
+- DTO
+- Controller
+- Service
+- Repository
+
+katmanlarını otomatik oluşturan .NET geliştirici aracı.
+
+---
+
+# 💻 Teknolojiler
+
+## Backend
+
+- ASP.NET Core (.NET 6 / .NET 8 / .NET 9)
+- C#
+- REST API
+- Entity Framework Core
+- LINQ
+- MediatR
+- CQRS
+- AutoMapper
+- FluentValidation
+- JWT Authentication
+- SignalR
+- Serilog
+- Swagger
+
+---
+
+## Frontend
+
+- React
+- ASP.NET MVC
+- Blazor
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- Tailwind CSS
+
+---
+
+## Mobile
+
+- .NET MAUI
+
+---
+
+## Database
+
+- Microsoft SQL Server
+- Stored Procedure
+- View
+- Trigger
+- Query Optimization
+
+---
+
+## DevOps & Tools
+
+- Git
+- GitHub
+- Docker
+- Postman
+- Visual Studio
+- VS Code
+
+---
+
+# 📚 Şu An Öğrendiklerim
+
+- Docker & Containerization
+- Unit Test
+- Integration Test
+- CI/CD
+- Redis
+- Microservice Mimarileri
+- Azure servisleri
+- Performans optimizasyonları
+
+---
+
+# ✍️ İçerik Üretiyorum
+
+Yazılım geliştirme sürecinde öğrendiğim konuları ve geliştirdiğim projeleri paylaşmayı seviyorum.
+
+Özellikle;
+
+- Clean Architecture
+- ASP.NET Core
+- Entity Framework
+- SQL Server
+- React
+- Yazılım Mimarileri
+- Performans Optimizasyonu
+- Gerçek Hayat Projeleri
+
+üzerine içerikler üretmeye devam ediyorum.
+
+📎 Medium
+
+https://medium.com/@berkay_agcay
+
+---
+
+# 📈 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AGCAYBERKAY&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=AGCAYBERKAY&theme=tokyonight" />
-  <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=AGCAYBERKAY&label=Ziyaretçi+Sayısı&color=blue&style=flat" alt="Profil Ziyaretçi Sayacı" />
+<img src="https://github-readme-stats.vercel.app/api?username=AGCAYBERKAY&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=AGCAYBERKAY&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AGCAYBERKAY&layout=compact&theme=tokyonight"/>
 </p>
-</p>
 
 ---
 
-### 🏆 GitHub Başarı Rozetlerim
+## 🏆 GitHub Başarı Rozetleri
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=agcayberkay&theme=tokyonight&row=1&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 📫 Bana Ulaşın
-
-- 📧 E-posta: berkay_agcay@hotmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/agcayberkay9/
-- 🌐 Blog: https://medium.com/@berkay_agcay
+[![trophy](https://github-profile-trophy.vercel.app/?username=AGCAYBERKAY&theme=tokyonight&row=1&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-## ✨ Küçük Bir Not
+# 📫 Bana Ulaşın
 
-Kod yazmak benim için sadece bir meslek değil, aynı zamanda bir yapı inşa etme tutkusu.  
-Yeni projeler öğrenmeye açık olmak, denemek ve paylaşmak bu yolculuğun en güzel yanı.  
-Yıldız bırakmayı unutma ⭐ ve benzer projeler geliştiriyorsan tanışalım!
+📧 **E-Mail**
+
+berkay_agcay@hotmail.com
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/agcayberkay9/
+
+🌐 **Medium**
+
+https://medium.com/@berkay_agcay
+
+🐙 **GitHub**
+
+https://github.com/AGCAYBERKAY
 
 ---
+
+# ⭐ Motto
+
+> "İyi yazılım yalnızca çalışan kod değildir; okunabilir, sürdürülebilir ve geleceğe hazırlanmış bir mimaridir."
+
+Açık kaynak projeler geliştirmeyi, yeni teknolojiler öğrenmeyi ve gerçek dünya problemlerine yazılım ile çözüm üretmeyi seviyorum.
+
+Profilime göz attığın için teşekkürler! ⭐
+```
