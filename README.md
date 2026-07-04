@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Merhaba 👋, ben Berkay Ağçay</h1>
 <h3 align="center">Full-Stack .NET Developer | ASP.NET Core • React • MVC • Blazor • MAUI</h3>
 
@@ -313,4 +313,4 @@ https://github.com/AGCAYBERKAY
 Açık kaynak projeler geliştirmeyi, yeni teknolojiler öğrenmeyi ve gerçek dünya problemlerine yazılım ile çözüm üretmeyi seviyorum.
 
 Profilime göz attığın için teşekkürler! ⭐
-```
+
